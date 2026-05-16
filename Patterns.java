@@ -2,7 +2,7 @@
 
 public class Patterns {
     public static void main(String[] args) {
-        Patterns obj = new Patterns();
+       
         //obj.half_Pyramid_Star(4);
         //obj.inverted_Star(4);
         //obj.num_halaPyramid(4);
